@@ -1,0 +1,46 @@
+* Node.js
+- Node.js is a cross-platform, open-source JavaScript runtime environment built on Chrome's V8 JavaScript engine. It allows developers to execute JavaScript code outside the browser, typically for building server-side applications.
+
+* What is Cross-Platform?
+- Cross-platform means software or tools that can run on multiple operating systems, such as Windows, Linux, and macOS.
+
+* What is a Server?
+- A server is a computer or system that provides data, services, or programs to other computers (clients). The server responds to client requests in a client-server architecture.
+
+* What is Server-Side Scripting?
+- Server-side scripting involves writing code (e.g., in JavaScript) that runs on the server to handle backend functionality. For example, Node.js is often used for server-side scripting.
+
+* Alternatives to Node.js:
+- PHP
+- Java
+- Python
+- Ruby
+
+* REPL (Read-Eval-Print-Loop)
+- Read: Accepts user input in JavaScript.
+- Eval: Evaluates or executes the inputted code.
+- Print: Outputs the result of the execution.
+- Loop: Repeats the above steps until the user exits the REPL.
+
+* What is a Global Object in Node.js?
+- __filename: Represents the absolute path of the file being executed.
+- __dirname: Represents the directory name of the file being executed.
+
+* Node.js Modules:
+- Modules are reusable blocks of code that can be exported and imported in other files.
+
+* Types of Node.js Modules:
+
+- Core Modules:
+- Built into Node.js and do not require installation.
+- Examples: http, url, fs, path.
+
+- Local Modules:
+- User-defined modules created within a Node.js application.
+- Organized into separate files or directories.
+
+- Third-Party Modules:
+- Modules available online via npm (Node Package Manager).
+- Can be installed locally for a project or globally for system-wide use.
+- Examples: mongoose, multer, passport.
+
